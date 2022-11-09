@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sarvesh",
+    "rollNo": "52",
+    "grade": "A",
+    "img": "https://avatars.githubusercontent.com/u/92196450?v=4"
+  },
+  {
+    "name": "Mandar",
+    "rollNo": "1",
+    "grade": "B",
+    "img": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+  },
+  {
+    "name": "Nidhi",
+    "rollNo": "2",
+    "grade": "C",
+    "img": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+  },
+  {
+    "name": "Atharva",
+    "rollNo": "3",
+    "grade": "A",
+    "img": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+  },
+  {
+    "name": "Bhargav",
+    "rollNo": "4",
+    "grade": "A",
+    "img": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+  },
+  {
+    "name": "Chirag",
+    "rollNo": "6",
+    "grade": "B",
+    "img": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+  }
+]
